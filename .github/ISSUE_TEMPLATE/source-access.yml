@@ -1,0 +1,22 @@
+name: 🔑 Request source code access
+description: Ask to see Buck Tagger's source code
+title: "Source access request: "
+labels: [source-request]
+body:
+  - type: markdown
+    attributes:
+      value: Buck Tagger's code is private for now. If your request is approved, you'll get an invite from GitHub to view the code.
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would you like access?
+      description: For example, to help fix bugs, add a feature, learn from it, or check what it does.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: Agreement
+      options:
+        - label: I won't share, publish, or sell Buck Tagger's code without permission.
+          required: true

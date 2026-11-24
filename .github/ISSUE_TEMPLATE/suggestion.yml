@@ -1,0 +1,16 @@
+name: 💡 Suggestion
+description: A feature or change you'd like to see in Buck Tagger
+labels: [suggestion]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+      description: What would you like Buck Tagger to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: How would it help you?
+      description: Optional. How you'd use it in the field or at home.
