@@ -11,6 +11,16 @@ Buck Tagger is an app built by hunters for hunters that sorts trail cam photos, 
 - **Phone app** that goes with the computer app.
 - **Works offline.** Your photos, sites and locations stay on your own computer and phone.
 
+## ⬇️ Download
+
+| | |
+|---|---|
+| 🐧 **Linux** | [BuckTagger-Linux-Installer.run](../../releases/latest/download/BuckTagger-Linux-Installer.run) · [how to install](INSTALL.md#-linux) |
+| 🪟 **Windows** 10 / 11 | [BuckTagger-Windows-Setup.exe](../../releases/latest/download/BuckTagger-Windows-Setup.exe) · [how to install](INSTALL.md#-windows) |
+| 📱 **Android** phone | [BuckTagger-phone.apk](../../releases/latest/download/BuckTagger-phone.apk) · [how to install](INSTALL-ANDROID.md) |
+
+No account needed. **[What it's been tested on](TESTED.md)**: computers, phones and trail cameras, tested and untested.
+
 ### About the map information
 
 Buck Tagger brings publicly available information together in one place. Map layers come from state and federal government agencies, counties and other organizations. **Buck Tagger does not own any of this data.** It just lets you see and use it all from one central place. Map lines are not legal survey boundaries, so always check official regulations and get permission before going on private land.
