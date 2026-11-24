@@ -1,6 +1,6 @@
 # 🦌 Buck Tagger
 
-Buck Tagger is an offline app for hunters that sorts trail cam photos, shows when and where your deer are moving, and brings hunting maps into one place.
+Buck Tagger is an app built by hunters for hunters that sorts trail cam photos, shows when and where your deer are moving, and brings all your hunting maps and state overlays into one place.
 
 ## What it does
 
